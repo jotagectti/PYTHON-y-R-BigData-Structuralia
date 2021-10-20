@@ -1,0 +1,227 @@
+			Continente   Extension   Pob1950   Pob2000
+"Afghanistan"		Asia	     647500.0	 8150368.0   25888797.0
+"Albania"		Europe	     28748.0	 1227156.0   3490435.0
+"Algeria"		Africa	     2381740.0	 8892718.0   31193917.0
+"American Samoa"	Oceania	     199.0	 19100.0	   65446.0
+"Andorra"		Europe	     468.0	 6176.0	   66824.0
+"Angola"		Africa	     1246700.0	 4117617.0   10132376.0
+"Anguilla"		America	     102.0	 5219.0	   11797.0
+"Antigua"		America	     443.0	 45816.0	   66464.0
+"Argentina"		America	     2766890.0	 17150336.0  37497728.0
+"Armenia"		Asia	     29800.0	 1355269.0   3344336.0
+"Aruba"			America	     193.0	 49712.0	   69539.0
+"Australia"		Oceania	     7686850.0	 8267337.0   19164620.0
+"Austria"		Europe	     83858.0	 6935100.0   8131111.0
+"Azerbaijan"		Asia	     86600.0	 2885332.0   7748163.0
+"Bahamas"		America	     13940.0	 70498.0	   290075.0
+"Bahrain"		Asia	     665.0	 114840.0	   634137.0
+"Bangladesh"		Asia	     144000.0	 45645964.0  130406594.0
+"Barbados"		America	     431.0	 210666.0	   273894.0
+"Belarus"		Europe	     207600.0	 7722155.0   10366719.0
+"Belgium"		Europe	     30510.0	 8639369.0   10241506.0
+"Belize"		America	     22966.0	 65797.0	   247009.0
+"Benin"			Africa	     112620.0	 1672661.0   6428396.0
+"Bermuda"		Oceania	     53.0		 38869.0	   62971.0
+"Bhutan"		Asia	     47000.0	 734000.0	   2005222.0
+"Bolivia"		America	     1098580.0	 2766028.0   8152620.0
+"Bosnia and Herzegovina" Europe	     51129.0	 2662000.0   3835777.0
+"Botswana"		Africa	     600370.0	 430413.0	   1577739.0
+"Brazil"		America	     8511965.0	 53443075.0  175552771.0
+"Brunei"		Asia	     5770.0	 44983.0	   336376.0
+"Bulgaria"		Europe	     110910.0	 7250500.0   7796694.0
+"Burkina Faso"		Africa	     274200.0	 4376162.0   12217363.0
+"Burma"			Asia	     678500.0	 19487657.0  41771657.0
+"Burundi"		Africa	     27830.0	 2362522.0   5713711.0
+"Cambodia"		Asia	     181040.0	 4163023.0   12432869.0
+"Cameroon"		Africa	     475440.0	 4887591.0   14791629.0
+"Canada"		America	     9976140.0	 14011422.0  31278097.0
+"Cape Verde"		Africa	     4033.0	 146403.0	   401343.0
+"Cayman Islands"	America	     262.0	 6286.0	   38410.0
+"Central African Republic" Africa    622984.0	 1259816.0   3501489.0
+"Chad"			Africa	     1284000.0	 2607769.0   8418864.0
+"Chile"			America	     756950.0	 6090833.0   15153797.0
+"China"			Asia	     9596960.0	 562579779.0 1262474301.0
+"Colombia"		America	     1138910.0	 11591658.0  39685655.0
+"Comoros"		Africa	     2170.0	 148057.0	   578400.0
+"Cook Islands"		Oceania	     240.0	 14575.0	   20407.0
+"Costa Rica"		America	     51100.0	 866982.0	   3710558.0
+"Cote d'Ivoire"		Africa	     322460.0	 2860288.0   15865601.0
+"Croatia"		Europe	     56542.0	 3837297.0   4282216.0
+"Cuba"			America	     110860.0	 5784797.0   11141997.0
+"Cyprus"		Asia	     9250.0	 494000.0	   758363.0
+"Czech Republic"	Europe	     78866.0	 8925122.0   10272179.0
+"Democratic Republic of the Congo" Africa 2345410.0 13568762.0 51809830.0
+"Denmark"		Europe	     43094.0	 4271000.0   5336394.0
+"Djibouti"		Africa	     23000.0	 60036.0	   430822.0
+"Dominica"		America	     754.0	 51423.0	   71540.0
+"Dominican Republic"	America	     48730.0	 2352968.0   8353525.0
+"East Timor"		Asia	     15007.0	 435529.0	   846599.0
+"Ecuador"		America	     283560.0	 3369955.0   12920092.0
+"Egypt"			Africa	     1001450.0	 21197691.0  70492342.0
+"El Salvador"		America	     21040.0	 1939800.0   6122515.0
+"Equatorial Guinea"	Africa	     28051.0	 211204.0	   474214.0
+"Eritrea"		Africa	     121320.0	 1402510.0   4243185.0
+"Estonia"		Europe	     45226.0	 1095610.0   1431471.0
+"Ethiopia"		Africa	     1127127.0	 20174562.0  62651398.0
+"Faroe Islands"		Europe	     1399.0	 31500.0	   45296.0
+"Federated States of Micronesia" Oceania 702.0	 30715.0	   133144.0
+"Fiji"		        Oceania	     18270.0	 287348.0	   832494.0
+"Finland"		Europe	     337030.0	 4008900.0   5167486.0
+"France"		Europe	     547030.0	 41828673.0  59381628.0
+"French Guiana"		America	     91000.0	 25516.0	   172605.0
+"French Polynesia"	Oceania	     4167.0	 62100.0	   249110.0
+"Gabon"			Africa	     267667.0	 415767.0	   1222938.0
+"Gambia"		Africa	     11300.0	 271369.0	   1367124.0
+"Gaza Strip"		Asia	     360.0	 245375.0	   1132063.0
+"Georgia"		Asia	     69700.0	 3515602.0   5019538.0
+"Germany"		Europe	     357021.0	 68374572.0  82187909.0
+"Ghana"			Africa	     239460.0	 5297454.0   19509240.0
+"Gibraltar"		Europe	     6.0		 22974.0	   27578.0
+"Greece"		Europe	     131940.0	 7566028.0   10601527.0
+"Greenland"		America	     2166086.0	 22300.0	   56309.0
+"Grenada"		America	     344.0	 75806.0	   89312.0
+"Guadeloupe"		America	     1780.0	 208080.0	   426493.0
+"Guam"			Oceania	     549.0	 59900.0	   154623.0
+"Guatemala"		America	     108890.0	 2968976.0   12820296.0
+"Guernsey"		Europe	     78.0		 45347.0	   64080.0
+"Guinea"		Africa	     245857.0	 2585509.0   8641965.0
+"Guinea-Bissau"		Africa	     36120.0	 573268.0	   1278259.0
+"Guyana"		America	     214970.0	 427971.0	   698110.0
+"Haiti"			America	     27750.0	 3097220.0   7177115.0
+"Honduras"		America	     112090.0	 1431447.0   6200898.0
+"Hong Kong"		Asia	     1092.0	 2237000.0   7115620.0
+"Hungary"		Europe	     93030.0	 9338000.0   10138844.0
+"Iceland"		Europe	     103000.0	 142938.0	   276365.0
+"India"			Asia	     3287590.0	 369880000.0 1002708291.0
+"Indonesia"		Asia	     1919440.0	 82978392.0  224138438.0
+"Iran"			Asia	     1648000.0	 16357000.0  66005872.0
+"Iraq"			Asia	     437072.0	 5163443.0   22675617.0
+"Ireland"		Europe	     70280.0	 2963018.0   3797257.0
+"Israel"		Asia	     20770.0	 1286131.0   5842454.0
+"Italy"			Europe	     301230.0	 47105000.0  57719337.0
+"Jamaica"		America	     10991.0	 1384550.0   2652689.0
+"Japan"			Asia	     377835.0	 83805000.0  126699784.0
+"Jersey"		Europe	     116.0	 56824.0	   88915.0
+"Jordan"		Asia	     92300.0	 561254.0	   4998564.0
+"Kazakhstan"		Asia	     2717300.0	 6693230.0   16733227.0
+"Kenya"			Africa	     582650.0	 6121184.0   30310235.0
+"Kiribati"		Oceania	     811.0	 33448.0	   91985.0
+"Kuwait"		Asia	     17820.0	 144774.0	   1973572.0
+"Kyrgyzstan"		Asia	     198500.0	 1738961.0   4685230.0
+"Laos"			Asia	     236800.0	 1885984.0   5497733.0
+"Latvia"		Europe	     64589.0	 1936498.0   2404926.0
+"Lebanon"		Asia	     10400.0	 1364030.0   3578036.0
+"Lesotho"		Africa	     30355.0	 726182.0	   1846827.0
+"Liberia"		Africa	     111370.0	 823885.0	   3148999.0
+"Libya"			Africa	     1759540.0	 961305.0	   5115450.0
+"Liechtenstein"		Europe	     160.0	 13500.0	   32204.0
+"Lithuania"		Europe	     65200.0	 2553159.0   3620756.0
+"Luxembourg"		Europe	     2586.0	 295587.0	   437389.0
+"Macao"			Asia	     25.0		 205442.0	   445594.0
+"Macedonia"		Europe	     25333.0	 1224627.0   2041467.0
+"Madagascar"		Africa	     587040.0	 4620437.0   15506472.0
+"Malawi"		Africa	     118480.0	 2816600.0   10873591.0
+"Malaysia"		Asia	     329750.0	 6433799.0   21793293.0
+"Maldives"		Asia	     300.0	 79293.0	   301475.0
+"Mali"			Africa	     1240000.0	 3687654.0   10665383.0
+"Malta"			Europe	     316.0	 311973.0	   391670.0
+"Man, Isle of"		Europe	     572.0	 54759.0	   73112.0
+"Marshall Islands"	Oceania	     181.0	 10904.0	   53064.0
+"Martinique"		America	     1100.0	 216618.0	   414516.0
+"Mauritania"		Africa	     1030700.0	 1005595.0   2667859.0
+"Mauritius"		Africa	     2040.0	 481270.0	   1179368.0
+"Mayotte"		Africa	     374.0	 21597.0	   155911.0
+"Mexico"		America	     1972550.0	 28485180.0  100349766.0
+"Moldova"		Europe	     33843.0	 2336432.0   4430654.0
+"Monaco"		Europe	     2.0		 18125.0	   31693.0
+"Mongolia"		Asia	     1565000.0	 778555.0	   2600835.0
+"Montserrat"		America	     102.0	 13480.0	   6409.0
+"Morocco"		Africa	     446550.0	 9343384.0   30122350.0
+"Mozambique"		Africa	     801590.0	 6250443.0   16934319.0
+"Namibia"		Africa	     825418.0	 463729.0	   1826279.0
+"Nauru"			Oceania	     21.0		 3432.0	   11845.0
+"Nepal"			Asia	     140800.0	 8989915.0   24702119.0
+"Netherlands"		Europe	     41526.0	 10113527.0  15892237.0
+"Netherlands Antilles"	America	     960.0	 109641.0	   210134.0
+"New Caledonia"		Oceania	     19060.0	 55069.0	   201816.0
+"New Zealand"		Oceania	     268680.0	 1908310.0   3819762.0
+"Nicaragua"		America	     129494.0	 1097916.0   4812569.0
+"Niger"			Africa	     1267000.0	 2481525.0   10173661.0
+"Nigeria"		Africa	     923768.0	 31796939.0  123749589.0
+"Northern Mariana Islands" Oceania   477.0	 6286.0	   71912.0
+"North Korea"		Asia	     120540.0	 9471140.0   21647682.0
+"Norway"		Europe	     324220.0	 3265126.0   4481162.0
+"Oman"			Asia	     212460.0	 488588.0	   2533389.0
+"Pakistan"		Asia	     803940.0	 39448232.0  141553775.0
+"Palau"			Oceania	     458.0	 7251.0	   18766.0
+"Panama"		America	     78200.0	 892502.0	   2836298.0
+"Papua New Guinea"	Oceania	     462840.0	 1412466.0   4926984.0
+"Paraguay"		America	     406750.0	 1475669.0   5585828.0
+"Peru"			America	     1285220.0	 7632500.0   27012899.0
+"Philippines"		Asia	     300000.0	 21131264.0  79739825.0
+"Poland"		Europe	     312685.0	 24824000.0  38646023.0
+"Portugal"		Europe	     92391.0	 8442750.0   10048232.0
+"Puerto Rico"		America	     9104.0	 2218000.0   3815893.0
+"Qatar"			Asia	     11437.0	 25101.0	   744483.0
+"Republic of the Congo"	Africa	     342000.0	 767838.0	   2809476.0
+"Reunion"		Africa	     2517.0	 243700.0	   720934.0
+"Romania"		Europe	     237500.0	 16311000.0  22411121.0
+"Russia"		Asia	     17075200.0	 101936816.0 146001176.0
+"Rwanda"		Africa	     26338.0	 2439435.0   7404703.0
+"Saint Helena"		Africa	     410.0	 5248.0	   7212.0
+"Saint Pierre and Miquelon" America  242.0	 4594.0	   6896.0
+"Samoa"			Oceania	     2944.0	 81858.0	   179466.0
+"San Marino"		Europe	     61.0		 12780.0	   26937.0
+"Sao Tome and Principe"	Africa	     1001.0	 59730.0	   159883.0
+"Saudi Arabia"		Asia	     1960582.0	 3859801.0   22023506.0
+"Senegal"		Africa	     196190.0	 2653637.0   9784325.0
+"Seychelles"		Africa	     455.0	 32903.0	   79326.0
+"Sierra Leone"		Africa	     71740.0	 2087055.0   5202659.0
+"Singapore"		Asia	     692.0	 1022100.0   4151720.0
+"Slovakia"		Europe	     48845.0	 3463446.0   5407956.0
+"Slovenia"		Europe	     20273.0	 1467759.0   1927593.0
+"Solomon Islands"	Oceania	     28450.0	 106647.0	   466194.0
+"Somalia"		Africa	     637657.0	 2437932.0   7253137.0
+"South Africa"		Africa	     1219912.0	 13595840.0  42351345.0
+"South Korea"		Asia	     98480.0	 20845771.0  47261283.0
+"Spain"			Europe	     504782.0	 28062963.0  40016081.0
+"Sri Lanka"		Asia	     65610.0	 7533097.0   19238575.0
+"St. Kitts & Nevis"	America	     261.0	 44341.0	   38819.0
+"St. Lucia"		America	     616.0	 79050.0	   156260.0
+"St. Vincent & the Grenadines" America 389.0	 66452.0	   115461.0
+"Sudan"			Africa	     2505810.0	 8051151.0   35079814.0
+"Suriname"		America	     163270.0	 208068.0	   429323.0
+"Swaziland"		Africa	     17363.0	 277384.0	   1120183.0
+"Sweden"		Europe	     449964.0	 7014005.0   8873052.0
+"Switzerland"		Europe	     41290.0	 4694000.0   7262372.0
+"Syria"			Asia	     185180.0	 3495000.0   16305659.0
+"Taiwan"		Asia	     35980.0	 7981454.0   22151237.0
+"Tajikistan"		Asia	     143100.0	 1530047.0   6440732.0
+"Tanzania"		Africa	     945087.0	 7934924.0   33767567.0
+"Thailand"		Asia	     514000.0	 20041628.0  62352043.0
+"Togo"			Africa	     56785.0	 1171897.0   5032783.0
+"Tonga"			Oceania	     748.0	 45744.0	   102321.0
+"Trinidad & Tobago"	America	     5128.0	 632000.0	   1125066.0
+"Tunisia"		Africa	     163610.0	 3517210.0   9593402.0
+"Turkey"		Asia	     780580.0	 21121639.0  65666677.0
+"Turkmenistan"		Asia	     488100.0	 1204075.0   4518268.0
+"Turks & Caicos"	America	     430.0	 5037.0	   17502.0
+"Tuvalu"		Oceania	     26.0		 4676.0	   10838.0
+"Uganda"		Africa	     236040.0	 5521758.0   23495923.0
+"Ukraine"		Europe	     603700.0	 36774854.0  49153027.0
+"United Arab Emirates"	Asia	     82880.0	 71520.0	   2369153.0
+"United Kingdom"	Europe	     2448820.0	 50127000.0  59522468.0
+"United States"		America	     9629091.0	 152271000.0 282338631.0
+"Uruguay"		America	     176220.0	 2194275.0   3334074.0
+"Uzbekistan"		Asia	     447400.0	 6292797.0   24755519.0
+"Vanuatu"		Oceania	     12200.0	 52000.0	   189618.0
+"Venezuela"		America	     912050.0	 5009006.0   23542649.0
+"Vietnam"		Asia	     329560.0	 25348144.0  78517582.0
+"Virgin Islands"	America	     352.0	 26900.0	   120917.0
+"Virgin Islands, British" America    153.0	 6243.0	   20353.0
+"Wallis and Futuna"	Oceania	     274.0	 6962.0	   15283.0
+"West Bank"		Asia	     5860.0	 771165.0	   2020298.0
+"Western Sahara"	Africa	     266000.0	 7326.0	   244943.0
+"Yemen"			Asia	     527970.0	 4777089.0   17479206.0
+"Zambia"		Africa	     752614.0	 2553000.0   9798529.0
+"Zimbabwe"		Africa	     390580.0	 2853151.0   12185932.0
